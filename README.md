@@ -7,7 +7,9 @@
   - [![Mail: dulansda](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&link=mailto:dulansda@protonmail.com)](mailto:dulansda@protonmail.com)
 - 🔍 find me on
   - [![Linkedin: dondulan](https://img.shields.io/badge/-dondulan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dondulan/)](https://www.linkedin.com/in/dondulan/)
-  - <a href="https://stackexchange.com/users/4129210"><img src="https://stackexchange.com/users/flair/4129210.png?theme=dark" width="104" height="29" alt="profile for Sudh33ra on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Sudh33ra on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a> 
+  - <a href="https://stackexchange.com/users/4129210"><img src="https://stackexchange.com/users/flair/4129210.png?theme=dark" width="104" height="29" alt="profile for Sudh33ra on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Sudh33ra on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+  - [![medium: dondulan](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@dulansda)](https://medium.com/@dulansda)
+  - [![devto: dondulan](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white&link=https://dev.to/sudh33ra)](https://dev.to/sudh33ra)
 
 - Currently working on
   - [AWS TF POCs](https://github.com/sudh33ra/aws-terraform-poc-list)
